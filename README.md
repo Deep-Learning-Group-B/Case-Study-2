@@ -72,7 +72,15 @@ Each generative model produces images, which are evaluated using IS and FID. Exa
 
 
 ## **Contributors**
-- List each team member's name and their specific contribution to the project.
+- Ayesha Mohammed Yunus Q
+- Dhanush Chandar Sivakumar
+- Hassaan Chishti
+- Janvi Satishbhai Rai
+- Oluwakanyinsola Ifeoluwa Adebanjo
+- Rajeesh Jayaraman
+- Rithwik Prem
+- Sucheta Adhikary
+- Sweatha Palani
 
 
 ## **License**
