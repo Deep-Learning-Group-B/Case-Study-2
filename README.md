@@ -18,14 +18,7 @@ You can access the dataset here: [Yelp Open Dataset](https://www.yelp.com/datase
 ### Demo Video
 
 
-[Causal Transformer Model using Position Encoding](https://drive.google.com/drive/u/1/folders/1sTpWdc5JKZVAE3dLzvY_y0r-9ieiqo8D)
-
-[Causal Transformer Model using Relative Positions](https://drive.google.com/drive/u/1/folders/1sTpWdc5JKZVAE3dLzvY_y0r-9ieiqo8D)
-
-[DCGAN](https://drive.google.com/drive/u/1/folders/1sTpWdc5JKZVAE3dLzvY_y0r-9ieiqo8D)
-
-[CNN Classifier](https://drive.google.com/drive/u/1/folders/1sTpWdc5JKZVAE3dLzvY_y0r-9ieiqo8D)
-
+[Click here to view the demo videos]([https://drive.google.com/drive/u/1/folders/1sTpWdc5JKZVAE3dLzvY_y0r-9ieiqo8D](https://azureloyalistcollege-my.sharepoint.com/:f:/g/personal/dhanushchandarsiv_loyalistcollege_com/Es6bUZVuBF1NrULP-tQZzKcBD29mypBayyXjX4kB7GtB2w?e=LVYPUe))
 
 
 ## **Models Implemented**
