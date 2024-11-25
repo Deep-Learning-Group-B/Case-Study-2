@@ -13,7 +13,7 @@ The dataset used in this project is the **Yelp Dataset**, which provides:
 
 ### **Source**
 The dataset is available from the **Yelp Dataset Challenge**.  
-You can access the dataset here: [Yelp Open Dataset](https://www.yelp.com/dataset).
+You can access the dataset here: [Yelp Open Dataset](https://www.yelp.com/dataset/download).
 
 
 ## **Models Implemented**
