@@ -15,6 +15,17 @@ The dataset used in this project is the **Yelp Dataset**, which provides:
 The dataset is available from the **Yelp Dataset Challenge**.  
 You can access the dataset here: [Yelp Open Dataset](https://www.yelp.com/dataset/download).
 
+### Demo Video
+
+
+[Causal Transformer Model using Position Encoding](https://drive.google.com/drive/u/1/folders/1sTpWdc5JKZVAE3dLzvY_y0r-9ieiqo8D)
+
+[Causal Transformer Model using Relative Positions](https://drive.google.com/drive/u/1/folders/1sTpWdc5JKZVAE3dLzvY_y0r-9ieiqo8D)
+
+[DCGAN](https://drive.google.com/drive/u/1/folders/1sTpWdc5JKZVAE3dLzvY_y0r-9ieiqo8D)
+
+[CNN Classifier](https://drive.google.com/drive/u/1/folders/1sTpWdc5JKZVAE3dLzvY_y0r-9ieiqo8D)
+
 
 ## **Models Implemented**
 
