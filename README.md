@@ -13,7 +13,18 @@ The dataset used in this project is the **Yelp Dataset**, which provides:
 
 ### **Source**
 The dataset is available from the **Yelp Dataset Challenge**.  
-You can access the dataset here: [Yelp Open Dataset](https://www.yelp.com/dataset).
+You can access the dataset here: [Yelp Open Dataset](https://www.yelp.com/dataset/download).
+
+### Demo Video
+
+
+[Causal Transformer Model using Position Encoding](https://drive.google.com/drive/u/1/folders/1sTpWdc5JKZVAE3dLzvY_y0r-9ieiqo8D)
+
+[Causal Transformer Model using Relative Positions](https://drive.google.com/drive/u/1/folders/1sTpWdc5JKZVAE3dLzvY_y0r-9ieiqo8D)
+
+[DCGAN](https://drive.google.com/drive/u/1/folders/1sTpWdc5JKZVAE3dLzvY_y0r-9ieiqo8D)
+
+[CNN Classifier](https://drive.google.com/drive/u/1/folders/1sTpWdc5JKZVAE3dLzvY_y0r-9ieiqo8D)
 
 
 
@@ -40,7 +51,7 @@ You can access the dataset here: [Yelp Open Dataset](https://www.yelp.com/datase
 ### **Sentiment Analysis Models**
 1. **CNN**: A Convolutional Neural Network for text-based sentiment classification.
 2. **Transformer Models**:
-   - Pretrained models like Causal Transformer Models
+   - Pretrained models such as Causal Transformer with Postional Encoding and Relative Postional Encoding .
 
 
 ## **How to Run the Project**
