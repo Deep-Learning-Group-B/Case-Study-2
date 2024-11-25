@@ -39,7 +39,7 @@ You can access the dataset here: [Yelp Open Dataset](https://www.yelp.com/datase
 ### **Sentiment Analysis Models**
 1. **CNN**: A Convolutional Neural Network for text-based sentiment classification.
 2. **Transformer Models**:
-   - Pretrained models like BERT or RoBERTa fine-tuned for Yelp reviews.
+   - Pretrained models like Causal
 
 
 ## **How to Run the Project**
@@ -72,7 +72,15 @@ Each generative model produces images, which are evaluated using IS and FID. Exa
 
 
 ## **Contributors**
-- List each team member's name and their specific contribution to the project.
+- Ayesha Mohammed Yunus Q
+- Dhanush Chandar Sivakumar
+- Hassaan Chishti
+- Janvi Satishbhai Rai
+- Oluwakanyinsola Ifeoluwa Adebanjo
+- Rajeesh Jayaraman
+- Rithwik Prem
+- Sucheta Adhikary
+- Sweatha Palani
 
 
 ## **License**
